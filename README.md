@@ -1,2 +1,1 @@
-# udemig-yazilim-
 # udemig-sitesi
